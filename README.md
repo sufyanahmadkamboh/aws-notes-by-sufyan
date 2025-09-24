@@ -32,10 +32,9 @@ Each topic has its own folder with commands, examples, and explanations. Perfect
 11. [CloudTrail – Governance & Auditing](11-cloudtrail/README.md)  
 12. [ECS & EKS – Containers in AWS](12-eks-ecs/README.md)  
 13. [CI/CD on AWS](13-ci-cd/README.md)  
-14. [Infrastructure as Code (CloudFormation & Terraform)](14-cloudformation-terraform/README.md)  
-15. [Security & Compliance](15-security-compliance/README.md)  
-16. [Cost Optimization](16-cost-optimization/README.md)  
-17. [Architecture & Design Patterns](17-architecture-design/README.md)  
+14. [Security & Compliance](14-security-compliance/README.md)  
+15. [Cost Optimization](15-cost-optimization/README.md)  
+16. [Architecture & Design Patterns](16-architecture-design/README.md)  
 
 ---
 
