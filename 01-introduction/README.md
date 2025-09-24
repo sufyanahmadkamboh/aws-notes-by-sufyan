@@ -81,7 +81,7 @@ AWS provides a **12-month Free Tier** for beginners:
 1. Sign up for AWS Free Tier.  
 2. Explore AWS Console → Navigate to EC2, S3, IAM.  
 3. Install AWS CLI and configure it:  
-bash
+
    aws configure
 
 
